@@ -1,6 +1,6 @@
 # Omar Zavala
 
-## Proyectos:
+## **Proyectos:**
 
 [Calendario Web](https://mangostar1.github.io/Calendar/)
 
