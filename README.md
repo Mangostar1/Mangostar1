@@ -1,4 +1,4 @@
-# Omar Zavala
+<h1 align="center"> Omar Zavala </h1>
 
 # Redes Sociales:
 
@@ -9,13 +9,16 @@
     <li><a href="https://omar-zavala.xyz/">Web Page</a></li>
 </ul>
 
+# Sobre mí
 
-## Proyectos:
+Soy Desarrollador Frontend
+
+# Proyectos:
 
 [Calendario Web](https://mangostar1.github.io/Calendar/)
 
-[Ejercicios Web](https://ejercicios-web.netlify.app/)
-
 [Retos Frontend Mentor](https://mangostar1.github.io/Frontend_mentor/index.html)
+
+[Ejercicios Web](https://ejercicios-web.netlify.app/)
 
 [Portafolio](https://omar-zavala.xyz/)
