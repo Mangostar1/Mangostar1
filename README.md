@@ -2,12 +2,12 @@
 
 # Redes Sociales:
 
-<ul>
-    <li><a href="https://www.linkedin.com/in/omar-zavala-ugarte/">Linkedin</a></li>
-    <li><a href="https://www.instagram.com/omar.zavala0/">Instagram</a></li>
-    <li><a href="mailto:influencia.x.94@gmail.com">Send Mail</a></li>
-    <li><a href="https://omar-zavala.xyz/">Web Page</a></li>
-</ul>
+<div align="center">
+    <a href="https://www.linkedin.com/in/omar-zavala-ugarte/"><img src="./imgs/Linkedin-color.png" width="50"></a>
+    <a href="https://www.instagram.com/omar.zavala0/"><img src="./imgs/instagram-color.svg" width="50"></a>
+    <a href="mailto:influencia.x.94@gmail.com"><img src="./imgs/gmail-color.png" width="50"></a>
+    <a href="https://omar-zavala.xyz/"><img src="./imgs/web-black.svg" width="50"></a>
+</div>
 
 # Sobre mí
 
