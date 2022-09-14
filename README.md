@@ -3,10 +3,10 @@
 # Redes Sociales:
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/omar-zavala-ugarte/"><img src="https://img.shields.io/badge/-Linkedin-blue" width="40"></a>
-    <a href="https://www.instagram.com/omar.zavala0/"><img src="https://img.shields.io/badge/-Instagram-blue" width="40"></a>
-    <a href="mailto:influencia.x.94@gmail.com"><img src="https://img.shields.io/badge/-Send%20Mail-blue" width="40"></a>
-    <a href="https://omar-zavala.xyz/"><img src="https://img.shields.io/badge/-Web%20Page-blue" width="35"></a>
+    <a href="https://www.linkedin.com/in/omar-zavala-ugarte/"><img src="https://img.shields.io/badge/-Linkedin-blue"></a>
+    <a href="https://www.instagram.com/omar.zavala0/"><img src="https://img.shields.io/badge/-Instagram-blue"></a>
+    <a href="mailto:influencia.x.94@gmail.com"><img src="https://img.shields.io/badge/-Send%20Mail-blue"></a>
+    <a href="https://omar-zavala.xyz/"><img src="https://img.shields.io/badge/-Web%20Page-blue"></a>
 </div>
 
 # Sobre mí
