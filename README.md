@@ -1,6 +1,6 @@
 <h1 align="center"> Omar Zavala </h1>
 
-# Redes Sociales:
+## Redes Sociales:
 
 <div align="center">
     <a href="https://www.linkedin.com/in/omar-zavala-ugarte/">
@@ -17,11 +17,15 @@
     </a>
 </div>
 
-# Sobre mí
+---
+
+## Sobre mí
 
 Soy Desarrollador Frontend
 
-# Proyectos:
+---
+
+## Proyectos:
 
 [Calendario Web](https://mangostar1.github.io/Calendar/)
 
@@ -30,3 +34,5 @@ Soy Desarrollador Frontend
 [Ejercicios Web](https://ejercicios-web.netlify.app/)
 
 [Portafolio](https://omar-zavala.xyz/)
+
+---
