@@ -21,7 +21,9 @@
 
 ## Sobre mí
 
-Soy Desarrollador Frontend
+Soy Omar Zavala, mejor conocido como Mangostar 🥭
+
+Soy de Chile
 
 ---
 
