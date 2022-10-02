@@ -53,7 +53,7 @@ Soy de Chile
 
 [Calendario Web](https://mangostar1.github.io/Calendar/)
 
-[Retos Frontend Mentor](https://mangostar1.github.io/Frontend_mentor/index.html)
+[Retos Frontend](https://mangostar1.github.io/Frontend_mentor/index.html)
 
 [Ejercicios Web](https://ejercicios-web.netlify.app/)
 
