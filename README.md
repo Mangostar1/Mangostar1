@@ -29,6 +29,7 @@ Soy de Chile
 
 ## Tecnologias
 <div align="center">
+    <h2>Frontend</h2>
     <a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     </a>
@@ -44,23 +45,26 @@ Soy de Chile
     <a href="https://es.reactjs.org/">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     </a>
+    <a href="https://reactrouter.com/">
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+    </a>
     <a href="https://tailwindcss.com/">
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     </a>
+    <h2>Design</h2>
     <a href="https://www.figma.com/">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     </a>
+    <h2>Database</h2>
     <a href="https://www.mysql.com/">
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     </a>
+    <h2>Backend</h2>
     <a href="https://nodejs.dev/">
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     </a>
     <a href="https://expressjs.com/">
         <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-    </a>
-    <a href="https://reactrouter.com/">
-        <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
     </a>
 </div>
 
