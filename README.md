@@ -70,6 +70,8 @@ Soy Omar Zavala, mejor conocido como Mangostar 🥭
 
 [Calendario Web](https://mangostar1.github.io/Calendar/)
 
+[Free Tabs](https://free-tabs.netlify.app/)
+
 [Retos Frontend](https://mangostar1.github.io/Retos_Frontend/)
 
 [Ejercicios Web](https://ejercicios-web.netlify.app/)
