@@ -76,7 +76,7 @@ Soy Omar Zavala, mejor conocido como Mangostar 🥭
 
 [Ejercicios Web](https://ejercicios-web.netlify.app/)
 
-[Portafolio](https://omar-zavala.xyz/)
+[Portafolio](https://omar-zavala.cl/)
 
 ---
 
