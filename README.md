@@ -12,7 +12,7 @@
     <a href="mailto:influencia.x.94@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://omar-zavala.xyz/">
+    <a href="https://omar-zavala.cl/">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
     </a>
 </div>
