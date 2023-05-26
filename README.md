@@ -64,6 +64,10 @@ Soy Omar Zavala, mejor conocido como Mangostar 🥭
     <a href="https://expressjs.com/">
         <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
     </a>
+    <h2>Cloud</h2>
+    <a href="https://firebase.google.com/">
+        <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)">
+    </a>
 </div>
 
 ## Proyectos:
